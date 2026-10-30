@@ -1,0 +1,4 @@
+n,DynamicArray_bytes,DynamicArray_capacity,SinglyLinkedList_bytes,array_bytes_per_item,list_bytes_per_item
+1000,8296,1024,48048,8.3,48.0
+10000,131176,16384,480048,13.1,48.0
+100000,1048680,131072,4800048,10.5,48.0
