@@ -4,7 +4,7 @@ Pure-Python implementations of linear-time selection algorithms (Part 1) and
 elementary data structures built from scratch (Part 2), with tests, benchmarks
 and a full written analysis.
 
-**Report: [REPORT.md](REPORT.md)** (design choices, complexity proofs, empirical results, discussion)
+
 
 ## Repository layout
 
@@ -100,4 +100,3 @@ ll = SinglyLinkedList([1, 2, 3]); ll.reverse(); ll.to_list()  # -> [3, 2, 1]
 
 ![data structures](results/ds_operations_loglog.png)
 
-See [REPORT.md](REPORT.md) for the full analysis.
